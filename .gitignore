@@ -1,0 +1,17 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Compiled output
+out/
+build/
+target/
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+
+# Environment / secrets
+.env
